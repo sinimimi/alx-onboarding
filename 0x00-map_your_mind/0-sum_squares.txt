@@ -1,0 +1,5 @@
+let N=o
+
+for each square shown
+
+SET N=N+1
